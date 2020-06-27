@@ -1,0 +1,245 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .hero-padding {
+        padding: 0px 50px;
+    }
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .main-menu ul li {
+        margin: 0 9px;
+        
+    }
+    .testimonial-img img {
+        margin-left: 0;
+    }
+    .footer-bg {
+        
+        background-size: cover;
+    }
+    .hero-padding {
+        padding: 0 15px;
+    }
+    .slider-height-2 {
+        min-height: 600px;
+        padding-top: 229px;
+    }
+    .pt-90 {
+        padding-top: 25px;
+    }
+    .features-list-img img {
+        padding-left: 0;
+        width: 100%;
+    }
+    .features-content-list h2 {
+        font-size: 30px;
+    }
+    .setting-img img {
+        margin-left: -30px;
+        width: 100%;
+    }
+    .testimonial-img img {
+        margin-left: 0;
+        width: 100%;
+    }
+    .fea-3-img img {
+        margin-left: 0;
+    }
+    .slider-height-3 {
+        min-height: 600px;
+    }
+    .member-img img {
+        width: 100%;
+    }
+    .responsive-3-img {
+        margin-left: 0;
+    }
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-transperent {
+        padding: 20px 0;
+    }
+    .footer-bg {
+       
+        background-size: cover;
+    }
+}
+.header-normal {
+    padding: 15px 0;
+    padding-bottom: 5px;
+}
+.slider-height-2 {
+    min-height: 720px;
+	padding-top: 150px;
+}
+.btn-squ-bg {
+	margin-bottom: 10px;
+}
+.features-img img {
+	margin-left: 0;
+}
+.what-do-list {
+	padding: 50px 30px;
+}
+.features-list-img.pl-70.mb-30 {
+	padding-left: 0;
+}
+.pricing-tab {
+	margin-top: 30px;
+}
+.testimonial-img img {
+	margin-left: 0;
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .header-transperent {
+        padding: 20px 0;
+    }
+    
+    .mean-bar {
+        margin-top: -35px;
+    }
+    .slider-text h2 {
+         font-weight: 700;
+     }
+     .slider-image img {
+        max-width: 100%;
+    }
+    .access-text h3 {
+        font-size: 32px;
+    }
+    .section-title h2 {
+        font-size: 32px;
+    }
+
+    .access-img img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .access-img-2 img{
+        margin-right: 0;
+    }
+    .testimonial-img img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .title-black h2 {
+        font-size: 30px;
+    }
+    .section-title h2 {
+        font-size: 32px;
+    }
+    .newsletter input {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .access-img img {
+        margin-left: 0;
+        width: 100%;
+    }
+    .access-img img {
+        margin-right: 0;
+        
+    }
+    .testimonial-img img {
+        margin-left: 0;
+    }
+    .newsletter button {
+        float: none;
+    }
+    .text-right {
+        text-align: left!important;
+    }
+    .footer-bg {
+      
+        background-size: cover;
+    }
+    
+.header-normal {
+    padding: 15px 0;
+    padding-bottom: 5px;
+}
+.slider-height-2 {
+    min-height: 720px;
+	padding-top: 150px;
+}
+.btn-squ-bg {
+	margin-bottom: 10px;
+}
+.features-img img {
+	margin-left: 0;
+}
+.what-do-list {
+	padding: 50px 30px;
+}
+.features-list-img.pl-70.mb-30 {
+	padding-left: 0;
+}
+.pricing-tab {
+	margin-top: 30px;
+}
+.features-img img {
+	margin-left: 0;
+	max-width: 95%;
+}
+.section-title-2 h2 {
+	font-size: 28px;
+}
+.features-content-list h2 {
+	font-size: 28px;
+ 
+}
+.setting-img img {
+    max-width: 100%;
+    
+}
+.features-list-img.pl-70.mb-30 img {
+	max-width: 100%;
+}
+.setting-img img {
+	margin-left: 0;
+	max-width: 100%;
+}
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .footer-bg {
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: cover;
+    }
+    
+.header-normal {
+    padding: 15px 0;
+    padding-bottom: 5px;
+}
+.slider-height-2 {
+    min-height: 720px;
+	padding-top: 150px;
+}
+.btn-squ-bg {
+	margin-bottom: 10px;
+}
+.features-img img {
+	margin-left: 0;
+}
+.what-do-list {
+	padding: 50px 30px;
+}
+.features-list-img.pl-70.mb-30 {
+	padding-left: 0;
+}
+.pricing-tab {
+	margin-top: 30px;
+}
+}
